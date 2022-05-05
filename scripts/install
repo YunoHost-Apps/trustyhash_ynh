@@ -380,15 +380,15 @@ ynh_add_fpm_config
 #=================================================
 # SETUP SSOWAT
 #=================================================
-ynh_script_progression --message="Configuring permissions..." --time --weight=1
+# ynh_script_progression --message="Configuring permissions..." --time --weight=1
 
 # Make app public if necessary
-if [ $is_public -eq 1 ]
-then
+# if [ $is_public -eq 1 ]
+# then
 	# Everyone can access the app.
 	# The "main" permission is automatically created before the install script.
-	ynh_permission_update --permission="main" --add="visitors"
-fi
+#	ynh_permission_update --permission="main" --add="visitors"
+# fi
 
 ### N.B. : the following extra permissions only make sense if your app
 ### does have for example an admin interface or an API.
