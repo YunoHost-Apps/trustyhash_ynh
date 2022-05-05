@@ -5,7 +5,7 @@
 #=================================================
 
 # dependencies used by the app
-YNH_PHP_VERSION="7.4"
+YNH_PHP_VERSION="7.3"
 
 #=================================================
 # PERSONAL HELPERS
