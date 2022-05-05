@@ -1,7 +1,7 @@
 # TrustyHash pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/TrustyHash.svg)](https://dash.yunohost.org/appci/app/TrustyHash) ![](https://ci-apps.yunohost.org/ci/badges/TrustyHash.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/TrustyHash.maintain.svg)  
-[![Installer TrustyHash avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=TrustyHash)
+[![Niveau d'intégration](https://dash.yunohost.org/integration/trustyhash.svg)](https://dash.yunohost.org/appci/app/trustyhash) ![](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)  
+[![Installer TrustyHash avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=trustyhash)
 
 *[Read this readme in english.](./README.md)*
 *[Lire ce readme en français.](./README_fr.md)*
@@ -369,18 +369,18 @@ the browser, as recommended anyway.
 * Site officiel de l'app : https://github.com/sprin/TrustyHash
 * Documentation officielle utilisateur : https://github.com/sprin/TrustyHash
 * Dépôt de code officiel de l'app : https://github.com/sprin/TrustyHash
-* Documentation YunoHost pour cette app : https://yunohost.org/app_TrustyHash
-* Signaler un bug : https://github.com/YunoHost-Apps/TrustyHash_ynh/issues
+* Documentation YunoHost pour cette app : https://yunohost.org/app_trustyhash
+* Signaler un bug : https://github.com/YunoHost-Apps/trustyhash_ynh/issues
 
 ## Informations pour les développeurs
 
-Merci de faire vos pull request sur la [branche testing](https://github.com/YunoHost-Apps/TrustyHash_ynh/tree/testing).
+Merci de faire vos pull request sur la [branche testing](https://github.com/YunoHost-Apps/trustyhash_ynh/tree/testing).
 
 Pour essayer la branche testing, procédez comme suit.
 ```
-sudo yunohost app install https://github.com/YunoHost-Apps/TrustyHash_ynh/tree/testing --debug
+sudo yunohost app install https://github.com/YunoHost-Apps/trustyhash_ynh/tree/testing --debug
 ou
-sudo yunohost app upgrade TrustyHash -u https://github.com/YunoHost-Apps/TrustyHash_ynh/tree/testing --debug
+sudo yunohost app upgrade trustyhash -u https://github.com/YunoHost-Apps/trustyhash_ynh/tree/testing --debug
 ```
 
 **Plus d'infos sur le packaging d'applications :** https://yunohost.org/packaging_apps
