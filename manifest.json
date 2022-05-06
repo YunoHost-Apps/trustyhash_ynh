@@ -9,13 +9,13 @@
     "version": "1.0~ynh1",
     "url": "https://github.com/sprin/TrustyHash",
     "upstream": {
-        "license": "MIT license",
+        "license": "MIT",
         "website": "https://github.com/sprin/TrustyHash",
         "demo": "https://sprin.github.io/TrustyHash/",        
         "userdoc": "https://github.com/sprin/TrustyHash",
         "code": "https://github.com/sprin/TrustyHash"
     },
-    "license": "MIT license",
+    "license": "MIT",
     "maintainer": {
         "name": "jarod5001",
         "email": ""
