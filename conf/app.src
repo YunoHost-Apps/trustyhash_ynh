@@ -1,7 +1,7 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://github.com/sprin/TrustyHash/archive/refs/heads/master.zip
+SOURCE_SUM=52b48d4f6e18144424d158ad01e4adf0609a2d475792929b41265c56f5fa2d51
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
+SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
+SOURCE_FILENAME=index.html
 SOURCE_EXTRACT=true
