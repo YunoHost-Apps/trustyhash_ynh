@@ -3,8 +3,8 @@
     "id": "trustyhash",
     "packaging_format": 1,
     "description": {
-        "en": "a small client-side web application that computes SHA-256 hash values on both local files and on remote URLs. Works offline!",
-        "fr": "une petite application Web côté client qui calcule les valeurs de hachage SHA-256 sur les fichiers locaux et sur les URL distantes. Fonctionne hors ligne !"
+        "en": "SHA-256 Hash Calculator",
+        "fr": "Calculateur de hachage SHA-256"
     },
     "version": "1.0~ynh1",
     "url": "https://github.com/sprin/TrustyHash",
@@ -21,12 +21,12 @@
         "email": ""
     },
     "requirements": {
-        "yunohost": ">= 4.3.0"
+        "yunohost": ">= 11.0.9"
     },
     "multi_instance": true,
     "services": [
         "nginx",
-        "php7.3-fpm"
+        "php7.4-fpm"
     ],
     "arguments": {
         "install" : [
