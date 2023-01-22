@@ -5,15 +5,15 @@ It shall NOT be edited by hand.
 
 # TrustyHash pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/trustyhash.svg)](https://dash.yunohost.org/appci/app/trustyhash) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/trustyhash.svg)](https://dash.yunohost.org/appci/app/trustyhash) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)
 [![Installer TrustyHash avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=trustyhash)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer TrustyHash rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer TrustyHash rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
 TrustyHash is a small [client-side](https://unhosted.org/) web application that
 computes SHA-256 hash values on both local files and on remote URLs, with a
@@ -21,19 +21,18 @@ strong emphasis on a process that will allow you to trust the results. Works
 offline!
 
 
-**Version incluse :** 1.0~ynh1
+**Version incluse :** 1.0~ynh2
 
 **Démo :** https://sprin.github.io/TrustyHash/
 
-## Captures d'écran
+## Captures d’écran
 
-![Capture d'écran de TrustyHash](./doc/screenshots/example.jpg)
+![Capture d’écran de TrustyHash](./doc/screenshots/example.jpg)
 
 ## Documentations et ressources
 
-* Site officiel de l'app : <https://github.com/sprin/TrustyHash>
 * Documentation officielle utilisateur : <https://github.com/sprin/TrustyHash>
-* Dépôt de code officiel de l'app : <https://github.com/sprin/TrustyHash>
+* Dépôt de code officiel de l’app : <https://github.com/sprin/TrustyHash>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_trustyhash>
 * Signaler un bug : <https://github.com/YunoHost-Apps/trustyhash_ynh/issues>
 
@@ -49,4 +48,4 @@ ou
 sudo yunohost app upgrade trustyhash -u https://github.com/YunoHost-Apps/trustyhash_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
