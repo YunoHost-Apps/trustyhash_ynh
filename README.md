@@ -6,6 +6,7 @@ It shall NOT be edited by hand.
 # TrustyHash for YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/trustyhash.svg)](https://dash.yunohost.org/appci/app/trustyhash) ![Working status](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)
+
 [![Install TrustyHash with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=trustyhash)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -17,18 +18,12 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 TrustyHash is a small [client-side](https://unhosted.org/) web application that
 computes SHA-256 hash values on both local files and on remote URLs, with a
-strong emphasis on a process that will allow you to trust the results. Works
-offline!
+strong emphasis on a process that will allow you to trust the results.
 
 
-**Shipped version:** 1.0~ynh2
+**Shipped version:** 1.0~ynh3
 
 **Demo:** https://sprin.github.io/TrustyHash/
-
-## Screenshots
-
-![Screenshot of TrustyHash](./doc/screenshots/example.jpg)
-
 ## Documentation and resources
 
 * Official user documentation: <https://github.com/sprin/TrustyHash>
