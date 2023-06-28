@@ -32,7 +32,6 @@ offline!
 
 ## Documentations et ressources
 
-* Site officiel de l’app : <https://github.com/sprin/TrustyHash>
 * Documentation officielle utilisateur : <https://github.com/sprin/TrustyHash>
 * Dépôt de code officiel de l’app : <https://github.com/sprin/TrustyHash>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_trustyhash>
