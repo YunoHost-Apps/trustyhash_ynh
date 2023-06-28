@@ -6,6 +6,7 @@ It shall NOT be edited by hand.
 # TrustyHash pour YunoHost
 
 [![Niveau d’intégration](https://dash.yunohost.org/integration/trustyhash.svg)](https://dash.yunohost.org/appci/app/trustyhash) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)
+
 [![Installer TrustyHash avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=trustyhash)
 
 *[Read this readme in english.](./README.md)*
