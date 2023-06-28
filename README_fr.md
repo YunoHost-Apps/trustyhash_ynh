@@ -18,18 +18,12 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 TrustyHash is a small [client-side](https://unhosted.org/) web application that
 computes SHA-256 hash values on both local files and on remote URLs, with a
-strong emphasis on a process that will allow you to trust the results. Works
-offline!
+strong emphasis on a process that will allow you to trust the results.
 
 
-**Version incluse :** 1.0~ynh2
+**Version incluse :** 1.0~ynh3
 
 **Démo :** https://sprin.github.io/TrustyHash/
-
-## Captures d’écran
-
-![Capture d’écran de TrustyHash](./doc/screenshots/example.jpg)
-
 ## Documentations et ressources
 
 * Documentation officielle utilisateur : <https://github.com/sprin/TrustyHash>
