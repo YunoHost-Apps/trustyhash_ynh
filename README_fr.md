@@ -22,7 +22,7 @@ strong emphasis on a process that will allow you to trust the results. Works
 offline!
 
 
-**Version incluse :** 1.0~ynh2
+**Version incluse :** 1.0~ynh3
 
 **Démo :** https://sprin.github.io/TrustyHash/
 
@@ -32,6 +32,7 @@ offline!
 
 ## Documentations et ressources
 
+* Site officiel de l’app : <https://github.com/sprin/TrustyHash>
 * Documentation officielle utilisateur : <https://github.com/sprin/TrustyHash>
 * Dépôt de code officiel de l’app : <https://github.com/sprin/TrustyHash>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_trustyhash>
