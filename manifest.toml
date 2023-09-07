@@ -16,7 +16,7 @@ userdoc = "https://github.com/sprin/TrustyHash"
 code = "https://github.com/sprin/TrustyHash"
 
 [integration]
-yunohost = ">= 11.1.21"
+yunohost = ">= 11.2"
 architectures = "all"
 multi_instance = true
 ldap = false
@@ -37,7 +37,6 @@ ram.runtime = "50M"
         [resources.sources.main]
         url = "https://github.com/sprin/TrustyHash/archive/refs/heads/master.zip"
         sha256 = "52b48d4f6e18144424d158ad01e4adf0609a2d475792929b41265c56f5fa2d51"
-
 
     [resources.system_user]
 
