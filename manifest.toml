@@ -5,7 +5,7 @@ name = "TrustyHash"
 description.en = "SHA-256 Hash Calculator"
 description.fr = "Calculateur de hachage SHA-256"
 
-version = "1.0~ynh3"
+version = "1.0~ynh4"
 
 maintainers = ["jarod5001"]
 
@@ -16,7 +16,7 @@ userdoc = "https://github.com/sprin/TrustyHash"
 code = "https://github.com/sprin/TrustyHash"
 
 [integration]
-yunohost = ">= 11.1.21"
+yunohost = ">= 11.2"
 architectures = "all"
 multi_instance = true
 ldap = false
@@ -33,11 +33,14 @@ ram.runtime = "50M"
     type = "path"
     default = "/trustyhash"
 
+    [install.init_main_permission]
+    type = "group"
+    default = "visitors"
+
 [resources]
         [resources.sources.main]
         url = "https://github.com/sprin/TrustyHash/archive/refs/heads/master.zip"
         sha256 = "52b48d4f6e18144424d158ad01e4adf0609a2d475792929b41265c56f5fa2d51"
-
 
     [resources.system_user]
 
