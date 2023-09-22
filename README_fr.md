@@ -21,7 +21,7 @@ computes SHA-256 hash values on both local files and on remote URLs, with a
 strong emphasis on a process that will allow you to trust the results.
 
 
-**Version incluse :** 1.0~ynh3
+**Version incluse :** 1.0~ynh4
 
 **Démo :** https://sprin.github.io/TrustyHash/
 ## Documentations et ressources
