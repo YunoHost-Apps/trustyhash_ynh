@@ -5,7 +5,7 @@ name = "TrustyHash"
 description.en = "SHA-256 Hash Calculator"
 description.fr = "Calculateur de hachage SHA-256"
 
-version = "1.0~ynh3"
+version = "1.0~ynh4"
 
 maintainers = ["jarod5001"]
 
