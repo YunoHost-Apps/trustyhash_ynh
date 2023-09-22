@@ -33,6 +33,10 @@ ram.runtime = "50M"
     type = "path"
     default = "/trustyhash"
 
+    [install.init_main_permission]
+    type = "group"
+    default = "visitors"
+
 [resources]
         [resources.sources.main]
         url = "https://github.com/sprin/TrustyHash/archive/refs/heads/master.zip"
