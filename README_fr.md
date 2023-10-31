@@ -28,7 +28,7 @@ strong emphasis on a process that will allow you to trust the results.
 
 * Documentation officielle utilisateur : <https://github.com/sprin/TrustyHash>
 * Dépôt de code officiel de l’app : <https://github.com/sprin/TrustyHash>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_trustyhash>
+* YunoHost Store: <https://apps.yunohost.org/app/trustyhash>
 * Signaler un bug : <https://github.com/YunoHost-Apps/trustyhash_ynh/issues>
 
 ## Informations pour les développeurs
