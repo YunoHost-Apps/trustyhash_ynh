@@ -41,6 +41,7 @@ ram.runtime = "50M"
         [resources.sources.main]
         url = "https://github.com/sprin/TrustyHash/archive/refs/heads/master.zip"
         sha256 = "52b48d4f6e18144424d158ad01e4adf0609a2d475792929b41265c56f5fa2d51"
+        autoupdate.strategy = "latest_github_commit"
 
     [resources.system_user]
 
