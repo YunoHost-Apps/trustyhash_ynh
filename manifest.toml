@@ -5,7 +5,7 @@ name = "TrustyHash"
 description.en = "SHA-256 Hash Calculator"
 description.fr = "Calculateur de hachage SHA-256"
 
-version = "1.0~ynh4"
+version = "2016.06.17~ynh1"
 
 maintainers = ["jarod5001"]
 
@@ -39,8 +39,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://github.com/sprin/TrustyHash/archive/refs/heads/master.zip"
-        sha256 = "52b48d4f6e18144424d158ad01e4adf0609a2d475792929b41265c56f5fa2d51"
+        url = "https://github.com/sprin/TrustyHash/archive/2a360dd904424c1c0365cb36e2b4ea91cf8e57b9.tar.gz"
+        sha256 = "5bf6070d6971681e2802e6afc3e393a535eeafd480d9711e1e763f40bdd84b5e"
         autoupdate.strategy = "latest_github_commit"
 
     [resources.system_user]
