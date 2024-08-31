@@ -15,7 +15,6 @@ ynh_setup_source --dest_dir="$install_dir"
 #=================================================
 ynh_script_progression "Adding system configurations related to $app..."
 
-
 ynh_config_add_phpfpm
 
 ynh_config_add_nginx
