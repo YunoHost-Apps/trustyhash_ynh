@@ -12,7 +12,6 @@ maintainers = ["jarod5001"]
 [upstream]
 license = "MIT"
 demo = "https://sprin.github.io/TrustyHash/"
-userdoc = "https://github.com/sprin/TrustyHash"
 code = "https://github.com/sprin/TrustyHash"
 
 [integration]
