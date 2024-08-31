@@ -5,7 +5,7 @@ Il NE doit PAS être modifié à la main.
 
 # TrustyHash pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/trustyhash.svg)](https://dash.yunohost.org/appci/app/trustyhash) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)
+[![Niveau d’intégration](https://dash.yunohost.org/integration/trustyhash.svg)](https://ci-apps.yunohost.org/ci/apps/trustyhash/) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)
 
 [![Installer TrustyHash avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=trustyhash)
 
