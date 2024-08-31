@@ -26,7 +26,6 @@ strong emphasis on a process that will allow you to trust the results.
 **演示：** <https://sprin.github.io/TrustyHash/>
 ## 文档与资源
 
-- 官方用户文档： <https://github.com/sprin/TrustyHash>
 - 上游应用代码库： <https://github.com/sprin/TrustyHash>
 - YunoHost 商店： <https://apps.yunohost.org/app/trustyhash>
 - 报告 bug： <https://github.com/YunoHost-Apps/trustyhash_ynh/issues>

@@ -26,7 +26,6 @@ strong emphasis on a process that will allow you to trust the results.
 **Demo:** <https://sprin.github.io/TrustyHash/>
 ## Dokumentasi dan sumber daya
 
-- Dokumentasi pengguna resmi: <https://github.com/sprin/TrustyHash>
 - Depot kode aplikasi hulu: <https://github.com/sprin/TrustyHash>
 - Gudang YunoHost: <https://apps.yunohost.org/app/trustyhash>
 - Laporkan bug: <https://github.com/YunoHost-Apps/trustyhash_ynh/issues>

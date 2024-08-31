@@ -26,7 +26,6 @@ strong emphasis on a process that will allow you to trust the results.
 **Démo :** <https://sprin.github.io/TrustyHash/>
 ## Documentations et ressources
 
-- Documentation officielle utilisateur : <https://github.com/sprin/TrustyHash>
 - Dépôt de code officiel de l’app : <https://github.com/sprin/TrustyHash>
 - YunoHost Store : <https://apps.yunohost.org/app/trustyhash>
 - Signaler un bug : <https://github.com/YunoHost-Apps/trustyhash_ynh/issues>
