@@ -5,7 +5,7 @@ EZ editatu eskuz.
 
 # TrustyHash YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/trustyhash.svg)](https://dash.yunohost.org/appci/app/trustyhash) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)
+[![Integrazio maila](https://dash.yunohost.org/integration/trustyhash.svg)](https://ci-apps.yunohost.org/ci/apps/trustyhash/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)
 
 [![Instalatu TrustyHash YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=trustyhash)
 
@@ -21,7 +21,7 @@ computes SHA-256 hash values on both local files and on remote URLs, with a
 strong emphasis on a process that will allow you to trust the results.
 
 
-**Paketatutako bertsioa:** 2016.06.17~ynh1
+**Paketatutako bertsioa:** 2016.06.17~ynh2
 
 **Demoa:** <https://sprin.github.io/TrustyHash/>
 ## Dokumentazioa eta baliabideak

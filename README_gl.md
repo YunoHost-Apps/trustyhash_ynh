@@ -5,7 +5,7 @@ NON debe editarse manualmente.
 
 # TrustyHash para YunoHost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/trustyhash.svg)](https://dash.yunohost.org/appci/app/trustyhash) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)
+[![Nivel de integración](https://dash.yunohost.org/integration/trustyhash.svg)](https://ci-apps.yunohost.org/ci/apps/trustyhash/) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)
 
 [![Instalar TrustyHash con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=trustyhash)
 
@@ -21,7 +21,7 @@ computes SHA-256 hash values on both local files and on remote URLs, with a
 strong emphasis on a process that will allow you to trust the results.
 
 
-**Versión proporcionada:** 2016.06.17~ynh1
+**Versión proporcionada:** 2016.06.17~ynh2
 
 **Demo:** <https://sprin.github.io/TrustyHash/>
 ## Documentación e recursos

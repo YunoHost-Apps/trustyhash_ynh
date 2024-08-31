@@ -5,7 +5,7 @@
 
 # YunoHost 上的 TrustyHash
 
-[![集成程度](https://dash.yunohost.org/integration/trustyhash.svg)](https://dash.yunohost.org/appci/app/trustyhash) ![工作状态](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)
+[![集成程度](https://dash.yunohost.org/integration/trustyhash.svg)](https://ci-apps.yunohost.org/ci/apps/trustyhash/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)
 
 [![使用 YunoHost 安装 TrustyHash](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=trustyhash)
 
@@ -21,7 +21,7 @@ computes SHA-256 hash values on both local files and on remote URLs, with a
 strong emphasis on a process that will allow you to trust the results.
 
 
-**分发版本：** 2016.06.17~ynh1
+**分发版本：** 2016.06.17~ynh2
 
 **演示：** <https://sprin.github.io/TrustyHash/>
 ## 文档与资源
