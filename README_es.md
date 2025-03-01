@@ -5,7 +5,9 @@ No se debe editar a mano.
 
 # TrustyHash para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/trustyhash.svg)](https://ci-apps.yunohost.org/ci/apps/trustyhash/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/trustyhash)](https://ci-apps.yunohost.org/ci/apps/trustyhash/)
+![Estado funcional](https://apps.yunohost.org/badge/state/trustyhash)
+![Estado En Mantención](https://apps.yunohost.org/badge/maintained/trustyhash)
 
 [![Instalar TrustyHash con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=trustyhash)
 
@@ -32,7 +34,7 @@ strong emphasis on a process that will allow you to trust the results.
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/trustyhash_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/trustyhash_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 
