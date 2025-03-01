@@ -21,7 +21,7 @@
 TrustyHash is a [client-side](https://unhosted.org/) web application that computes SHA-256 hash values on both local files and on remote URLs, with a strong emphasis on a process that will allow you to trust the results.
 
 
-**分发版本：** 2016.06.17~ynh2
+**分发版本：** 2016.06.17~ynh3
 
 **演示：** <https://sprin.github.io/TrustyHash/>
 ## 文档与资源

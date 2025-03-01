@@ -20,7 +20,7 @@ Il NE doit PAS être modifié à la main.
 
 TrustyHash est une application web [côté client] (https://unhosted.org/) qui calcule les valeurs de hachage SHA-256 sur les fichiers locaux et les URL distants, en mettant l'accent sur un processus qui vous permettra de faire confiance aux résultats.
 
-**Version incluse :** 2016.06.17~ynh2
+**Version incluse :** 2016.06.17~ynh3
 
 **Démo :** <https://sprin.github.io/TrustyHash/>
 ## Documentations et ressources
