@@ -5,7 +5,9 @@
 
 # YunoHost 上的 TrustyHash
 
-[![集成程度](https://dash.yunohost.org/integration/trustyhash.svg)](https://ci-apps.yunohost.org/ci/apps/trustyhash/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/trustyhash)](https://ci-apps.yunohost.org/ci/apps/trustyhash/)
+![工作状态](https://apps.yunohost.org/badge/state/trustyhash)
+![维护状态](https://apps.yunohost.org/badge/maintained/trustyhash)
 
 [![使用 YunoHost 安装 TrustyHash](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=trustyhash)
 
@@ -16,17 +18,14 @@
 
 ## 概况
 
-TrustyHash is a small [client-side](https://unhosted.org/) web application that
-computes SHA-256 hash values on both local files and on remote URLs, with a
-strong emphasis on a process that will allow you to trust the results.
+TrustyHash is a [client-side](https://unhosted.org/) web application that computes SHA-256 hash values on both local files and on remote URLs, with a strong emphasis on a process that will allow you to trust the results.
 
 
-**分发版本：** 2016.06.17~ynh2
+**分发版本：** 2016.06.17~ynh3
 
 **演示：** <https://sprin.github.io/TrustyHash/>
 ## 文档与资源
 
-- 官方用户文档： <https://github.com/sprin/TrustyHash>
 - 上游应用代码库： <https://github.com/sprin/TrustyHash>
 - YunoHost 商店： <https://apps.yunohost.org/app/trustyhash>
 - 报告 bug： <https://github.com/YunoHost-Apps/trustyhash_ynh/issues>

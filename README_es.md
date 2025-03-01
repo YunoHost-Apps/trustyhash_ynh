@@ -5,7 +5,9 @@ No se debe editar a mano.
 
 # TrustyHash para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/trustyhash.svg)](https://ci-apps.yunohost.org/ci/apps/trustyhash/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/trustyhash)](https://ci-apps.yunohost.org/ci/apps/trustyhash/)
+![Estado funcional](https://apps.yunohost.org/badge/state/trustyhash)
+![Estado En Mantención](https://apps.yunohost.org/badge/maintained/trustyhash)
 
 [![Instalar TrustyHash con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=trustyhash)
 
@@ -16,24 +18,21 @@ No se debe editar a mano.
 
 ## Descripción general
 
-TrustyHash is a small [client-side](https://unhosted.org/) web application that
-computes SHA-256 hash values on both local files and on remote URLs, with a
-strong emphasis on a process that will allow you to trust the results.
+TrustyHash is a [client-side](https://unhosted.org/) web application that computes SHA-256 hash values on both local files and on remote URLs, with a strong emphasis on a process that will allow you to trust the results.
 
 
-**Versión actual:** 2016.06.17~ynh2
+**Versión actual:** 2016.06.17~ynh3
 
 **Demo:** <https://sprin.github.io/TrustyHash/>
 ## Documentaciones y recursos
 
-- Documentación usuario oficial: <https://github.com/sprin/TrustyHash>
 - Repositorio del código fuente oficial de la aplicación : <https://github.com/sprin/TrustyHash>
 - Catálogo YunoHost: <https://apps.yunohost.org/app/trustyhash>
 - Reportar un error: <https://github.com/YunoHost-Apps/trustyhash_ynh/issues>
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/trustyhash_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/trustyhash_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 

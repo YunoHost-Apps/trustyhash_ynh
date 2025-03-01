@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # TrustyHash untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/trustyhash.svg)](https://ci-apps.yunohost.org/ci/apps/trustyhash/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/trustyhash)](https://ci-apps.yunohost.org/ci/apps/trustyhash/)
+![Status kerja](https://apps.yunohost.org/badge/state/trustyhash)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/trustyhash)
 
 [![Pasang TrustyHash dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=trustyhash)
 
@@ -16,17 +18,14 @@ Ini TIDAK boleh diedit dengan tangan.
 
 ## Ringkasan
 
-TrustyHash is a small [client-side](https://unhosted.org/) web application that
-computes SHA-256 hash values on both local files and on remote URLs, with a
-strong emphasis on a process that will allow you to trust the results.
+TrustyHash is a [client-side](https://unhosted.org/) web application that computes SHA-256 hash values on both local files and on remote URLs, with a strong emphasis on a process that will allow you to trust the results.
 
 
-**Versi terkirim:** 2016.06.17~ynh2
+**Versi terkirim:** 2016.06.17~ynh3
 
 **Demo:** <https://sprin.github.io/TrustyHash/>
 ## Dokumentasi dan sumber daya
 
-- Dokumentasi pengguna resmi: <https://github.com/sprin/TrustyHash>
 - Depot kode aplikasi hulu: <https://github.com/sprin/TrustyHash>
 - Gudang YunoHost: <https://apps.yunohost.org/app/trustyhash>
 - Laporkan bug: <https://github.com/YunoHost-Apps/trustyhash_ynh/issues>
