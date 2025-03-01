@@ -18,9 +18,7 @@ Nie powinno być ono edytowane ręcznie.
 
 ## Przegląd
 
-TrustyHash is a small [client-side](https://unhosted.org/) web application that
-computes SHA-256 hash values on both local files and on remote URLs, with a
-strong emphasis on a process that will allow you to trust the results.
+TrustyHash is a [client-side](https://unhosted.org/) web application that computes SHA-256 hash values on both local files and on remote URLs, with a strong emphasis on a process that will allow you to trust the results.
 
 
 **Dostarczona wersja:** 2016.06.17~ynh2
