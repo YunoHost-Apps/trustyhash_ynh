@@ -5,7 +5,9 @@
 
 # YunoHost 上的 TrustyHash
 
-[![集成程度](https://dash.yunohost.org/integration/trustyhash.svg)](https://ci-apps.yunohost.org/ci/apps/trustyhash/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/trustyhash)](https://ci-apps.yunohost.org/ci/apps/trustyhash/)
+![工作状态](https://apps.yunohost.org/badge/state/trustyhash)
+![维护状态](https://apps.yunohost.org/badge/maintained/trustyhash)
 
 [![使用 YunoHost 安装 TrustyHash](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=trustyhash)
 

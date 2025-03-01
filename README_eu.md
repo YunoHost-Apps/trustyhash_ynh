@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # TrustyHash YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/trustyhash.svg)](https://ci-apps.yunohost.org/ci/apps/trustyhash/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/trustyhash.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/trustyhash.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/trustyhash)](https://ci-apps.yunohost.org/ci/apps/trustyhash/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/trustyhash)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/trustyhash)
 
 [![Instalatu TrustyHash YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=trustyhash)
 
